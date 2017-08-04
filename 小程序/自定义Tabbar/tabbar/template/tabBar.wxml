@@ -7,5 +7,5 @@
       <text>{{item.text}}</text>  
     </navigator>  
     </block>  
-  </view>  
+  </view>   
 </template>  
