@@ -1,0 +1,4 @@
+<!--pages/mine/mine.wxml-->
+<import src="../../template/tabBar.wxml" />  
+<template is="tabBar" data="{{tabBar: tabBar}}" />  
+<text>pages/mine/mine.wxml</text>
